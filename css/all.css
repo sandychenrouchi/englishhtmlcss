@@ -93,7 +93,7 @@ table {
  }
 
 .navarbar li {
-  tex-align: center;
+  text-align: center;
   font-family: Roboto;
   font-size: 24px;
   margin-left: 24px;
@@ -209,7 +209,7 @@ table {
   width: 336px;
   background: #fff;
   border-radius:4px;
-  -webkit-box-shadow: 5px 5px 10px grey;
+  box-shadow: 5px 5px 10px grey;
  }
 
 .card img{
@@ -269,6 +269,7 @@ table {
   }
 
 .course-list td{
+ width: 1176px;
  font-size: 24px;
  color: #1F4172;
  line-height: 40px;
@@ -402,5 +403,5 @@ table {
   position: fixed;
   bottom: 184px;
   right: 54px;
-  -webkit-box-shadow: 5px 5px 10px grey ;  
+  box-shadow: 5px 5px 10px grey ;  
 }
