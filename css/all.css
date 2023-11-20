@@ -48,7 +48,7 @@ table {
 }
 
 *, *:before, *:after{
-    border-box:box-sizing;
+   box-sizing: border-box;
   }
   
   .wrap{
@@ -70,7 +70,7 @@ table {
     background-image:url(https://i.postimg.cc/25BQgxtL/logo.png);
     background-size: 100%;
     width: 216px;
-    height: 36px;
+    height: 52px;
     text-indent:101%;
     overflow:hidden;
     white-space:nowrap;
