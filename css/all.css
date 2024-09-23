@@ -67,7 +67,7 @@ table {
 
 .navarbar p a{
   display: block;
-  background-image:url('英語教室 banner.jpg');
+  background-image:url("../img/英語教室\ logo.png");
   background-size: 100%;
   width: 216px;
   height: 52px;
@@ -117,7 +117,7 @@ table {
   width: 1440px;
   height: 599px;
   margin-bottom: 184px;
-  background-image:url("英語教室 banner-2.jpg");
+  background-image:url("../img/英語教室\ banner.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
  }
@@ -294,7 +294,7 @@ table {
 }
 
 .contact{ 
-  background-image:url(https://i.ibb.co/48fxWpM/banner-2.jpg);
+  background-image:url("../img/英語教室\ banner-2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
  padding: 96px 0px 96px 0px;
