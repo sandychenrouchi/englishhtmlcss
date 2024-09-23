@@ -117,7 +117,7 @@ table {
   width: 1440px;
   height: 599px;
   margin-bottom: 184px;
-  background-image:url(https://i.postimg.cc/sx7gV4Cx/banner.jpg);
+  background-image:url("https://i.ibb.co/VJWXGSX/banner.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
  }
@@ -294,7 +294,7 @@ table {
 }
 
 .contact{ 
-  background-image:url(https://i.postimg.cc/wxCdXpYM/banner-2.jpg);
+  background-image:url(https://i.ibb.co/48fxWpM/banner-2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
  padding: 96px 0px 96px 0px;
